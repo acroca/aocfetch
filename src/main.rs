@@ -9,8 +9,6 @@ struct Args {
 
   #[arg(long)]
   day: u8,
-
-  cmd: Vec<String>,
 }
 
 fn main() {
