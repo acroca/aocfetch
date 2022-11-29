@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "aoctool"
+name = "aocfetch"
 version = "0.0.2"
 dependencies = [
  "clap",
